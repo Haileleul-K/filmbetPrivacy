@@ -3,9 +3,9 @@
 This Privacy Policy outlines how GoTop Trading collects, uses, and protects your personal information when you use the Filmbet service. By using the Service, you consent to the practices described in this policy.
 
 ## Key Definitions:
-	# Personal Data:  Information that identifies you, such as your name, email, and phone number.
-	# Usage Data: ** Automatically collected information about your interaction with the Service, such as IP address and browsing history.
-	** Cookies: ** Small files used to track your activity and preferences on the Service.
+	- Personal Data:  Information that identifies you, such as your name, email, and phone number.
+	- Usage Data:  Automatically collected information about your interaction with the Service, such as IP address and browsing history.
+	- Cookies:  Small files used to track your activity and preferences on the Service.
 
 ## Data Collection: 
  	- The Company collects Personal Data when you provide it and Usage Data automatically through your interactions with the Service.
